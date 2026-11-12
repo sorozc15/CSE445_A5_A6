@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
@@ -13,6 +13,7 @@ public partial class Captcha : UserControl
 
     private static readonly Random rnd = new Random();
 
+    //renders the captcha code
     protected void Page_PreRender(object sender, EventArgs e)
     {
         string code = NewCode();
@@ -22,6 +23,7 @@ public partial class Captcha : UserControl
         txtCaptcha.Text = "";
     }
 
+    //validates the captcha code that the user entered against the actual code
     public bool IsValidCode()
     {
         string expected = Session[SessionKey] as string;
@@ -30,6 +32,7 @@ public partial class Captcha : UserControl
         return ok;
     }
 
+    //code generator
     private static String NewCode()
     {
         const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ23456789";
@@ -44,6 +47,7 @@ public partial class Captcha : UserControl
         return new string(code);
     }
 
+    //generates the image from the code given from the generator
     private static byte[] RenderPng(string code)
     {
         using (var bmp = new Bitmap(150, 50))
