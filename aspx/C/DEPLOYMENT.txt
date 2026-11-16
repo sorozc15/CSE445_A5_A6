@@ -1,0 +1,8 @@
+Farzad - Assignment 5, Part C
+
+Live TryIt: http://webstrarportal.fulton.asu.edu/sites/website49/Page0/Default.aspx
+Service: http://webstrarportal.fulton.asu.edu/sites/website49/Page0/PriorityService.asmx
+WSDL: http://webstrarportal.fulton.asu.edu/sites/website49/Page0/PriorityService.asmx?WSDL
+
+Observed on November 15, 2026 via user screenshots: Windows build succeeded; local and deployed calculator inputs 5,0,8 returned 95 Critical; local username session/cookie saved Farzad; local deliberate error was logged as InvalidOperationException with matching reference ID.
+Live cookie/error tests, WSDL and exhaustive C# tests have not been independently verified.
