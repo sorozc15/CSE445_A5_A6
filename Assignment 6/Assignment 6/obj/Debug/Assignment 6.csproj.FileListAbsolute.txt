@@ -58,6 +58,7 @@ C:\Users\orozc\Documents\GitHub\CSE445_A5_A6\Assignment 6\Assignment 6\bin\Micro
 C:\Users\orozc\Documents\GitHub\CSE445_A5_A6\Assignment 6\Assignment 6\bin\Microsoft.ScriptManager.WebForms.dll
 C:\Users\orozc\Documents\GitHub\CSE445_A5_A6\Assignment 6\Assignment 6\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\orozc\Documents\GitHub\CSE445_A5_A6\Assignment 6\Assignment 6\bin\Newtonsoft.Json.dll
+C:\Users\orozc\Documents\GitHub\CSE445_A5_A6\Assignment 6\Assignment 6\bin\SecurityLib.dll
 C:\Users\orozc\Documents\GitHub\CSE445_A5_A6\Assignment 6\Assignment 6\bin\System.Web.Optimization.dll
 C:\Users\orozc\Documents\GitHub\CSE445_A5_A6\Assignment 6\Assignment 6\bin\WebGrease.dll
 C:\Users\orozc\Documents\GitHub\CSE445_A5_A6\Assignment 6\Assignment 6\bin\System.Web.Optimization.xml

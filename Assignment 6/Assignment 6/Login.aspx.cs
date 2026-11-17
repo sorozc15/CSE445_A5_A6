@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Web.Security;
 
 namespace Assignment_6
 {
@@ -11,7 +12,7 @@ namespace Assignment_6
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-           
+     
         }
 
         protected void btnLogin_Click(object sender, EventArgs e)
@@ -21,12 +22,16 @@ namespace Assignment_6
                 lblMessage.Text = "Invalid captcha code.";
                 return;
             }
+
             string username = txtUsername.Text.Trim();
             string password = txtPassword.Text;
+
             if (UserStore.ValidateUser(username, password))
             {
+                FormsAuthentication.SetAuthCookie(username, false);
                 Session["Username"] = username;
-                Response.Redirect("Default.aspx");
+                Response.Redirect("~/Default.aspx", false);
+                Context.ApplicationInstance.CompleteRequest();
             }
             else
             {

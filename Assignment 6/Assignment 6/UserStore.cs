@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Xml.Linq;
+using SecurityLib;
 
 // UserRecord class: Represents a user record with username and roles. Does not store password or other sensitive information.
 // UserStore class: Static class. Used to manage user data from the xml file.
@@ -25,16 +26,19 @@ namespace Assignment_6
             }
         }
         
+        //Loads Users.xml
         private static XDocument LoadXml()
         {
             return XDocument.Load(FilePath);
         }
 
+        //Saves to Users.xml
         private static void SaveXml(XDocument doc)
         {
             doc.Save(FilePath);
         }
 
+        //Grabs all the users as a record
         public static List<UserRecord> GetAllUsers()
         {
             lock(fileLock)
@@ -50,6 +54,7 @@ namespace Assignment_6
             }
         }
 
+        //Checks to see if user has a specific role
         public static bool IsInRole(string username, string role)
         {
             lock (fileLock)
@@ -62,6 +67,7 @@ namespace Assignment_6
             }
         }
 
+        //Adds new user to the users.xml
         public static void AddUser(string username, string passwordHash, string[] roles)
         {
             lock (fileLock)
@@ -81,6 +87,7 @@ namespace Assignment_6
             }
         }
 
+        //Updates a user's roles given a list of roles
         public static void UpdateRoles(string username, string[] roles)
         {
             lock (fileLock)
@@ -101,6 +108,7 @@ namespace Assignment_6
             }
         }
 
+        // Deletes user
         public static void DeleteUser(string username)
         {
             lock (fileLock)
@@ -117,9 +125,30 @@ namespace Assignment_6
             }
         }
 
+        //Checks to see if there is a user with a specific username and password
         public static bool ValidateUser(string username, string password)
         {
-            return true; // Placeholder for actual password validation logic
+            lock (fileLock)
+            {
+
+                XDocument doc = LoadXml();
+                XElement user = doc.Root.Elements("User")
+                    .FirstOrDefault(u => string.Equals(
+                        (string)u.Element("Username"),
+                        username,
+                        StringComparison.OrdinalIgnoreCase));
+
+                if (user == null)
+                    return false;
+
+                string storedHash = (string)user.Element("PasswordHash");
+                if (string.IsNullOrWhiteSpace(storedHash))
+                    return false;
+
+                bool result = SecurityLib.Crypto.Matches(password, storedHash);
+
+                return result;
+            }
         }
     }
 }

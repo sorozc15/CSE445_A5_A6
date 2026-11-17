@@ -1,8 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Users>
-	<Username>TA</Username>
-	<PasswordHash>HASH_VALUE_HERE</PasswordHash>
-	<Roles>
-		<Role>Administrator</Role>
-	</Roles>
+  <User>
+    <Username>TA</Username>
+    <PasswordHash>mude5ofV1TaTltgdXBFNqXJnTPY2XithsCVDjcU2tO0=</PasswordHash>
+    <Roles>
+      <Role>Administrator</Role>
+    </Roles>
+  </User>
 </Users>

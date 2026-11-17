@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing.Printing;
 using System.Linq;
 using System.Web;
+using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
@@ -48,15 +49,22 @@ namespace Assignment_6
 
         protected void Page_Load(object sender, EventArgs e)
         {
-          if (string.IsNullOrEmpty(CurrentUsername))
+            if (!Request.IsAuthenticated)
             {
-                Response.Redirect("Login.aspx");
+                Response.Redirect("~/Login.aspx");
+                Context.ApplicationInstance.CompleteRequest();
                 return;
             }
-          if (!UserStore.IsInRole(CurrentUsername, "Administrator")) {
-                Response.Redirect("Default.aspx");
+            if (!UserStore.IsInRole(CurrentUsername, "Administrator"))
+            {
+                Response.Redirect("~/Default.aspx");
                 return;
             }
+            if (!IsPostBack)
+            {
+                LoadUsers();
+            }
+
         }
 
         protected void gvUsers_RowEditing(object sender, GridViewEditEventArgs e)
