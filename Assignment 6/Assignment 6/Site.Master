@@ -46,10 +46,17 @@
                 </button>
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Default.aspx">Home</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Staff.aspx">Staff</a></li>
                     </ul>
                 </div>
+            </div>
+            <div class="account-actions">
+                <%if (Session["Username"] != null) { %>
+                    <asp:Button ID="btnLogout" runat="server" Text="Logout" OnClick="btnLogout_Click"/>
+                <% } else { %>
+                    <asp:Button ID="btnLogin" runat="server" Text="Login" OnClick="btnLogin_Click"/>
+                <% } %>
             </div>
         </nav>
         <div class="container body-content">

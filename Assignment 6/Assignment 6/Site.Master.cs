@@ -13,5 +13,18 @@ namespace Assignment_6
         {
 
         }
+
+        protected void btnLogout_Click(object sender, EventArgs e)
+        {
+            Session.Abandon();
+            Response.Redirect("~/Login.aspx");
+            Context.ApplicationInstance.CompleteRequest();
+        }
+
+        protected void btnLogin_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/Login.aspx");
+            Context.ApplicationInstance.CompleteRequest();
+        }
     }
 }

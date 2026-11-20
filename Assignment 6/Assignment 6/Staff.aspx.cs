@@ -23,11 +23,26 @@ namespace Assignment_6
         {
             gvUsers.DataSource = UserStore.GetAllUsers();
             gvUsers.DataBind();
+            foreach (GridViewRow row in gvUsers.Rows)
+            {
+                string username = row.Cells[0].Text;
+                if (UserStore.IsInRole(CurrentUsername, "Staff"))
+                {
+                    if (!UserStore.IsInRole(username, "User"))
+                    {
+                        gvUsers.Rows[row.RowIndex].Cells[2].Enabled = false;
+                    }
+                }
+                if (string.Equals(username, CurrentUsername, StringComparison.OrdinalIgnoreCase))
+                {
+                    gvUsers.Rows[row.RowIndex].Cells[2].Enabled = false;
+                }
+            }
         }
 
         private string[] ParseRoles(string roles)
         {
-            string[] allowedRoles = { "Administrator", "Users" };
+            string[] allowedRoles = { "Administrator", "Staff", "Users" };
             string[] result = roles.Split(',')
                 .Select(r => r.Trim())
                 .Where(r => !string.IsNullOrWhiteSpace(r))
@@ -55,7 +70,7 @@ namespace Assignment_6
                 Context.ApplicationInstance.CompleteRequest();
                 return;
             }
-            if (!UserStore.IsInRole(CurrentUsername, "Administrator"))
+            if (!UserStore.IsInRole(CurrentUsername, "Administrator") && !UserStore.IsInRole(CurrentUsername, "Staff"))
             {
                 Response.Redirect("~/Default.aspx");
                 return;
@@ -63,6 +78,9 @@ namespace Assignment_6
             if (!IsPostBack)
             {
                 LoadUsers();
+                lblSessionStartTime.Text = $"Session started at: {Session["SessionStarted"]}";
+                lblCurrentUser.Text = $"Current user: {CurrentUsername}";
+                lblnumofsessions.Text = $"Active sessions: {Application["ActiveSessions"]}";
             }
 
         }
@@ -114,5 +132,21 @@ namespace Assignment_6
             }
         }
 
+        protected void btnAddStaff_Click(object sender, EventArgs e)
+        {
+            string username = txtNewUsername.Text.Trim();
+            string password = txtNewPassword.Text;
+
+            if (UserStore.RegisterStaff(username, password))
+            {
+                LoadUsers();
+                txtNewUsername.Text = string.Empty;
+                txtNewPassword.Text = string.Empty;
+            }
+            else
+            {
+                Console.WriteLine($"Error adding new staff user, username may already exist.");
+            }
+        }
     }
 }

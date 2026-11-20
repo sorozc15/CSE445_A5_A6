@@ -150,5 +150,49 @@ namespace Assignment_6
                 return result;
             }
         }
+
+        //Registers a new user with a username and password
+        public static bool RegisterUser(string username, string password)
+        {
+            lock (fileLock)
+            {
+                XDocument doc = LoadXml();
+                if (doc.Root.Elements("User").Any(u => string.Equals((string)u.Element("Username"), username, StringComparison.OrdinalIgnoreCase)))
+                {
+                    return false;
+                }
+                string passwordHash = SecurityLib.Crypto.Encrypt(password);
+                XElement newUser = new XElement("User",
+                    new XElement("Username", username),
+                    new XElement("PasswordHash", passwordHash),
+                    new XElement("Roles", new XElement("Role", "User"))
+                );
+                doc.Root.Add(newUser);
+                SaveXml(doc);
+                return true;
+            }
+        }
+
+        //Registers a new staff memember
+        public static bool RegisterStaff(string username, string password)
+        {
+            lock (fileLock)
+            {
+                XDocument doc = LoadXml();
+                if (doc.Root.Elements("User").Any(u => string.Equals((string)u.Element("Username"), username, StringComparison.OrdinalIgnoreCase)))
+                {
+                    return false;
+                }
+                string passwordHash = SecurityLib.Crypto.Encrypt(password);
+                XElement newUser = new XElement("User",
+                    new XElement("Username", username),
+                    new XElement("PasswordHash", passwordHash),
+                    new XElement("Roles", new XElement("Role", "Staff"))
+                );
+                doc.Root.Add(newUser);
+                SaveXml(doc);
+                return true;
+            }
+        }
     }
 }

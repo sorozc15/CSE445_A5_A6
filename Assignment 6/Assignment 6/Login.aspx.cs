@@ -38,5 +38,29 @@ namespace Assignment_6
                 lblMessage.Text = "Invalid username or password.";
             }
         }
+
+        protected void btnRegister_Click(object sender, EventArgs e)
+        {
+            if (!CaptchaLogin.IsValidCode())
+            {
+                lblMessage.Text = "Invalid captcha code.";
+                return;
+            }
+
+            string username = txtUsername.Text.Trim();
+            string password = txtPassword.Text;
+
+            if (UserStore.RegisterUser(username, password))
+            {
+                FormsAuthentication.SetAuthCookie(username, false);
+                Session["Username"] = username;
+                Response.Redirect("~/Default.aspx", false);
+                Context.ApplicationInstance.CompleteRequest();
+            }
+            else
+            {
+                lblMessage.Text = "Registration failed. Username may already exist.";
+            }
+        }
     }
 }

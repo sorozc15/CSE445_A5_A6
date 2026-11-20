@@ -7,4 +7,18 @@
       <Role>Administrator</Role>
     </Roles>
   </User>
+  <User>
+    <Username>Test_User</Username>
+    <PasswordHash>m1PWF+LsYj/94XlTCS/PTDUEvdiUQIGWadpJgg1l1qk=</PasswordHash>
+    <Roles>
+      <Role>User</Role>
+    </Roles>
+  </User>
+  <User>
+    <Username>Test_Staff</Username>
+    <PasswordHash>ZxalehGw6QwG8rVvKYoxmGXH2gyesuB6ZSR56XulJdI=</PasswordHash>
+    <Roles>
+      <Role>Staff</Role>
+    </Roles>
+  </User>
 </Users>

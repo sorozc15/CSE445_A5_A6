@@ -3,39 +3,77 @@
   "WorkspaceRootPath": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\components\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignment 6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\staff.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\staff.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,27 +81,12 @@
       "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignment 6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\libraries\\securitylib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\libraries\\securitylib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
       "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\libraries\\securitylib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|c:\\users\\orozc\\documents\\github\\cse445_a5_a6\\assignment 6\\assignment 6\\libraries\\securitylib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\libraries\\securitylib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\libraries\\securitylib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\aspx\\B\\Default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -74,14 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\controls\\captcha.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\controls\\captcha.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\staff.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\staff.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\assignment 6\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1485D707-FB3C-4A0F-9FEB-FF682BC86F6B}|Assignment 6\\Assignment 6.csproj|solutionrelative:assignment 6\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orozc\\Desktop\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
@@ -97,37 +112,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Global.asax.cs",
-              "RelativeDocumentMoniker": "Assignment 6\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Global.asax.cs",
-              "RelativeToolTip": "Assignment 6\\Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\components\\Global.asax.cs",
+              "RelativeDocumentMoniker": "..\\components\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\components\\Global.asax.cs",
+              "RelativeToolTip": "..\\components\\Global.asax.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T18:15:59.003Z",
+              "WhenOpened": "2026-11-20T20:28:21.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Site.Master.cs",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Site.Master.cs",
-              "RelativeDocumentMoniker": "Assignment 6\\Site.Master.cs",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Site.Master.cs",
-              "RelativeToolTip": "Assignment 6\\Site.Master.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T18:15:40.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "SecurityLib.dll",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Libraries\\SecurityLib.dll",
               "RelativeDocumentMoniker": "Assignment 6\\Libraries\\SecurityLib.dll",
@@ -138,58 +144,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx",
-              "RelativeDocumentMoniker": "Assignment 6\\Login.aspx",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx",
-              "RelativeToolTip": "Assignment 6\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-11-17T03:48:41.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Staff.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Staff.aspx.designer.cs",
               "RelativeDocumentMoniker": "Assignment 6\\Staff.aspx.designer.cs",
               "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Staff.aspx.designer.cs",
               "RelativeToolTip": "Assignment 6\\Staff.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T03:52:26.564Z"
+              "WhenOpened": "2026-11-17T03:52:26.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserStore.cs",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\UserStore.cs",
               "RelativeDocumentMoniker": "Assignment 6\\UserStore.cs",
               "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\UserStore.cs",
               "RelativeToolTip": "Assignment 6\\UserStore.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAswH8AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAADwv70AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-17T03:33:07.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Users.xml",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Users.xml",
               "RelativeDocumentMoniker": "Assignment 6\\Users.xml",
               "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Users.xml",
               "RelativeToolTip": "Assignment 6\\Users.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2026-11-17T03:06:13.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Staff.aspx",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Staff.aspx",
               "RelativeDocumentMoniker": "Assignment 6\\Staff.aspx",
@@ -202,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Site.Master",
               "RelativeDocumentMoniker": "Assignment 6\\Site.Master",
@@ -215,54 +209,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Staff.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Staff.aspx.cs",
-              "RelativeDocumentMoniker": "Assignment 6\\Staff.aspx.cs",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Staff.aspx.cs",
-              "RelativeToolTip": "Assignment 6\\Staff.aspx.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAmwDcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T03:20:22.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Web.config",
-              "RelativeDocumentMoniker": "Assignment 6\\Web.config",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Web.config",
-              "RelativeToolTip": "Assignment 6\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-11-17T03:46:31.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Assignment 6\\Login.aspx.cs",
               "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx.cs",
               "RelativeToolTip": "Assignment 6\\Login.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-17T03:49:00.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "Assignment 6\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "Assignment 6\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx",
+              "RelativeDocumentMoniker": "Assignment 6\\Login.aspx",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx",
+              "RelativeToolTip": "Assignment 6\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-17T03:48:41.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Assignment 6\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Site.Master.cs",
+              "RelativeToolTip": "Assignment 6\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T18:22:10.638Z",
+              "WhenOpened": "2026-11-17T18:15:40.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Staff.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Staff.aspx.cs",
+              "RelativeDocumentMoniker": "Assignment 6\\Staff.aspx.cs",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Staff.aspx.cs",
+              "RelativeToolTip": "Assignment 6\\Staff.aspx.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAwCAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T03:20:22.201Z",
               "EditorCaption": ""
             },
             {
@@ -270,37 +264,73 @@
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SecurityLib.dll - 1 [Neutral] - Version",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Libraries\\SecurityLib.dll",
-              "RelativeDocumentMoniker": "Assignment 6\\Libraries\\SecurityLib.dll",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Libraries\\SecurityLib.dll - 1 [Neutral] - Version",
-              "RelativeToolTip": "Assignment 6\\Libraries\\SecurityLib.dll - 1 [Neutral] - Version",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-11-17T23:39:11.657Z",
-              "EditorCaption": " - 1 [Neutral] - Version"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx.designer.cs",
-              "RelativeDocumentMoniker": "Assignment 6\\Login.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx.designer.cs",
-              "RelativeToolTip": "Assignment 6\\Login.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Assignment 6\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Global.asax.cs",
+              "RelativeToolTip": "Assignment 6\\Global.asax.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T03:51:49.296Z",
+              "WhenOpened": "2026-11-17T18:15:59.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Assignment 6\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Content\\Site.css",
+              "RelativeToolTip": "Assignment 6\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-20T19:24:10.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Web.config",
+              "RelativeDocumentMoniker": "Assignment 6\\Web.config",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Web.config",
+              "RelativeToolTip": "Assignment 6\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-17T03:46:31.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "Assignment 6\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Content\\bootstrap.css",
+              "RelativeToolTip": "Assignment 6\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-20T19:24:39.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Assignment 6\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Site.Mobile.Master",
+              "RelativeToolTip": "Assignment 6\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-20T19:47:26.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Assignment 6",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Assignment 6.csproj",
               "RelativeDocumentMoniker": "Assignment 6\\Assignment 6.csproj",
@@ -312,7 +342,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 13,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Assignment 6\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Default.aspx.cs",
+              "RelativeToolTip": "Assignment 6\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T03:50:47.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Default.aspx",
+              "RelativeDocumentMoniker": "Assignment 6\\Default.aspx",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Default.aspx",
+              "RelativeToolTip": "Assignment 6\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-17T03:50:45.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Assignment 6\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Assignment 6\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T18:22:10.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\aspx\\C\\TaskNotes.PartC\\Global.asax.cs",
               "RelativeDocumentMoniker": "..\\aspx\\C\\TaskNotes.PartC\\Global.asax.cs",
@@ -324,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\orozc\\Desktop\\Login.aspx",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\Login.aspx",
@@ -336,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\aspx\\B\\Default.aspx",
               "RelativeDocumentMoniker": "..\\aspx\\B\\Default.aspx",
@@ -348,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Default.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\aspx\\B\\Default.aspx.designer.cs",
               "RelativeDocumentMoniker": "..\\aspx\\B\\Default.aspx.designer.cs",
@@ -361,30 +429,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "Assignment 6\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Default.aspx.cs",
-              "RelativeToolTip": "Assignment 6\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SecurityLib.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Libraries\\SecurityLib.dll",
+              "RelativeDocumentMoniker": "Assignment 6\\Libraries\\SecurityLib.dll",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Libraries\\SecurityLib.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "Assignment 6\\Libraries\\SecurityLib.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-11-17T23:39:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Assignment 6\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Assignment 6\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T03:50:47.983Z"
+              "WhenOpened": "2026-11-17T03:51:49.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Default.aspx",
-              "RelativeDocumentMoniker": "Assignment 6\\Default.aspx",
-              "ToolTip": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Default.aspx",
-              "RelativeToolTip": "Assignment 6\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-11-17T03:50:45.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Captcha.ascx.cs",
               "DocumentMoniker": "C:\\Users\\orozc\\Documents\\GitHub\\CSE445_A5_A6\\Assignment 6\\Assignment 6\\Controls\\Captcha.ascx.cs",
               "RelativeDocumentMoniker": "Assignment 6\\Controls\\Captcha.ascx.cs",
